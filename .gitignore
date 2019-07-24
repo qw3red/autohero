@@ -1,0 +1,10 @@
+*.iml
+*.ipr
+
+out/
+build/
+node_modules/
+.idea/
+.gradle/
+.allure/
+*/allure-results/

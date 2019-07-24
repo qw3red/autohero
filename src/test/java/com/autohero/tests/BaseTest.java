@@ -11,5 +11,6 @@ public class BaseTest {
         Configuration.baseUrl = "https://www.autohero.com/";
         Configuration.browserSize = "1600x1200";
         Configuration.headless = false;
+        Configuration.holdBrowserOpen = true;
     }
 }
